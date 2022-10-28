@@ -1,4 +1,4 @@
-# Cloud Native Core 
+# Cloud Native Stack 
 
 Cloud Native Core (formerly known as EGX Stack) is a collection of software to run cloud native workloads on NVIDIA GPUs. Cloud Native Core is based on Ubuntu, Kubernetes, Helm and the NVIDIA GPU and Network Operator.
 
